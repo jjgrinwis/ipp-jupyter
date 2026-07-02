@@ -1,6 +1,6 @@
 # IPP Jupyter Demo
 
-This repository contains a Jupyter notebook that demonstrates a basic Akamai Prolexic IP Protect workflow using the IP Protect Configuration API and EdgeGrid authentication.
+This repository contains a Jupyter Notebook that demonstrates a basic Akamai Prolexic IP Protect workflow using the IP Protect Configuration API and EdgeGrid authentication.
 
 ![IPP layout](ipp-layout.png)
 
