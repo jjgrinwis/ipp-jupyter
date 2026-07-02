@@ -118,12 +118,8 @@ If `AKAMAI_IPP_POLICY_DOMAIN` is not set, the notebook looks up available policy
 Start Jupyter with uv:
 
 ```bash
-uv run jupyter notebook
+uv run jupyter lab ipp-demo.ipynb
 ```
-
-Then open:
-
-- `ipp-demo.ipynb`
 
 Run the notebook cells in order.
 
