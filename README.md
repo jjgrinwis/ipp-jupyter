@@ -8,6 +8,7 @@ The demo notebook covers:
 
 - creating an authenticated EdgeGrid session
 - selecting an IPP policy domain
+- getting the list of MIP subnets
 - allocating a new IPv4 VIP
 - creating a VIP-to-origin mapping
 - cleaning up the demo VIP mapping again
